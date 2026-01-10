@@ -1,0 +1,13 @@
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Your specific executable name
+main
+
+# Build directories
+build/
+bin/
+dist/
